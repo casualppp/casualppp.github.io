@@ -98,5 +98,5 @@ deploy:
   type: git
   repository:
     github: git@github.com:casualppp/casualppp.github.io.git
-    #coding: git@git.coding.net:casualppp/casualppp.coding.me.git
+    coding: git@git.coding.net:casualppp/casualppp.coding.me.git
   branch: master
